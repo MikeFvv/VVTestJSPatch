@@ -2,6 +2,6 @@
 {
 	"file_name": "patchVersion",
 	"app_version": "1.0",
-	"js_version": "4",
-	"js_url": "https://github.com/hotJSPatch/JSPatchTest1.0/raw/master/v1.zip",
+	"js_version": "1",
+	"js_url": "https://github.com/MikeFvv/VVTestJSPatch/raw/master/v1.zip",
 }
